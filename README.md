@@ -1,4 +1,4 @@
-# Codealpha-task-1-
+# Codealpha-task-1
 #Strong Password Generator
 
 import random
